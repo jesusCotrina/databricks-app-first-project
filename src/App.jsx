@@ -10,7 +10,7 @@ export default function App() {
         fontWeight: "bold"
       }}
     >
-      Prueba 1 ----
+      CAMBIO  9999
     </div>
   );
 }
